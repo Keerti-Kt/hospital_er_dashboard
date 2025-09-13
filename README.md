@@ -18,6 +18,7 @@ This project cleans and analyzes publicly available hospital ER data to monitor 
 
 ## Files
 `hospital_er_dashboard.xlsx` - interactive dashboard file.
+`hospital_ER_dashboard_screenshot.png` - screenshot preview.
 
   
 
